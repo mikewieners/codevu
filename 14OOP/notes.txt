@@ -1,0 +1,22 @@
+﻿I. What is a an object
+    a. Examples you know
+        i. strings
+        ii. Lists
+        iii. dictionaries
+        iv. Beautiful soup or another python package
+    b. Vocabulary
+        i. Class
+        ii. Method
+        iii. Attribute
+        iv. Instance
+II. Create a new class and learn about the things
+    a. Class with at least one attribute and method
+    b. Create a new instance `my_obj = MyClass()`
+    c. Check out the type
+    d. Check the value of the attribute
+    e. Use the method
+III. Object life cycle
+    a. Add an __init__ and do some stuff on object instantiation 
+    b. Maybe pass an arg on object creation and do something with that??
+IV. Inheritance
+    a. Create a new class that inherits from the other’n
